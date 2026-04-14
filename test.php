@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Adeyemo Olamilekan</h1>
+    <h1 style="color: Red; background-color: Blue">Adeyemo Olamilekan</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi numquam doloribus, similique deleniti molestiae sunt amet consequuntur sed molestias ea quam! Ex, quod. Autem maxime omnis ratione quia! Consequuntur, nam!</p>
 </body>
 </html>
